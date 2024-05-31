@@ -1,6 +1,6 @@
 # Probabilidad y variables aleatorias para ML con R y Python
 
-Consulta el curso completo creado por Ricardo Alberich, Juan Gabriel Gomila y Arnau Mir solamente en [Frogames Formación](https://cursos.frogamesformacion.com/courses/probabilidad).
+**Consulta el curso completo creado por Ricardo Alberich**S, Juan Gabriel Gomila y Arnau Mir solamente en [Frogames Formación](https://cursos.frogamesformacion.com/courses/probabilidad).
 
 Puedes consultar todas las transparencias del curso en formato HTML desde nuestro [Github.io](https://joanby.github.io/bookdown-probabilidad/).
 
